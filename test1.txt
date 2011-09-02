@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test2
 3
 4
+=======
+test2
+>>>>>>> parent of 492727c... m
